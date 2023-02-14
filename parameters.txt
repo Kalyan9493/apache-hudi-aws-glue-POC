@@ -1,0 +1,3 @@
+--additional-python-modules             faker==11.3.0
+--base_s3_path                          s3a://gfcp-aws-glue-poc
+--table_name                            users
